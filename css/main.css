@@ -1,0 +1,219 @@
+/* Universal styling */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Body styling */
+body {
+  background-color: #fff1f1;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Horizontal rule styling */
+hr {
+  width: 10%;
+  border-style: dotted none none none;
+  border-width: 5px;
+  opacity: 0.2;
+  border-color: #d61d4e;
+  margin: 40px auto 40px auto;
+}
+
+/* Navigation bar styling */
+.nav-bar {
+  width: 100%;
+  height: 60px;
+}
+
+.nav-bar {
+  background-color: #323232;
+}
+
+.nav-bar-logo {
+  padding: 5px 0 0 0;
+  text-align: center;
+}
+
+.nav-bar-img {
+  width: 50px;
+}
+
+.nav-bar-link {
+  display: none;
+}
+
+.nav-bar-ref {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+/* Cover styling */
+.bio {
+  width: 100%;
+  text-align: center;
+  margin: 40px 0;
+  color: #d61d4e;
+}
+
+.bio-head {
+  font-size: 70px;
+  font-family: 'Kaushan Script', sans-serif;
+}
+
+.bio-desc {
+  font-weight: bold;
+  padding: 20px 0 0 0;
+}
+
+.cover-city {
+  width: 100%;
+}
+
+/* Main content styling */
+.sub-container {
+  width: 100%;
+  background-color: #ffffff;
+  padding: 30px 0;
+}
+
+/* About me styling */
+#about-me {
+  width: 100%;
+  text-align: center;
+}
+
+.my-profile-pic {
+  width: 120px;
+}
+
+.greeting {
+  color: #d61d4e;
+  font-size: 20px;
+  width: 100%;
+  margin: 20px auto 0 auto;
+}
+
+.my-desc {
+  width: 90%;
+  margin: 20px auto 0 auto;
+  line-height: 1.5;
+}
+
+/* Abilities styling */
+#abilities {
+  width: 100%;
+}
+
+.ability-main-head {
+  width: 100%;
+  color: #d61d4e;
+  text-align: center;
+}
+
+.ability-wrap {
+  width: 100%;
+  padding: 20px 0 0 0;
+  text-align: center;
+}
+
+.attractive,
+.responsive {
+  width: 120px;
+}
+
+.ability {
+  width: 100%;
+}
+
+.ability-head {
+  width: 100%;
+  font-size: 18px;
+  color: #ff0b55;
+}
+
+.ability-desc {
+  line-height: 1.5;
+  width: 90%;
+  padding: 20px 0 0 0;
+  margin: 0px auto;
+  text-align: justify;
+}
+
+/* Contact styling */
+#contact-me {
+  width: 100%;
+  text-align: center;
+}
+
+.contact-head {
+  width: 100%;
+  text-align: center;
+  color: #d61d4e;
+}
+
+.contact-sub-head {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px 0 0 0;
+  font-size: 18px;
+  text-align: center;
+  color: #ff0b55;
+}
+
+.contact-desc {
+  width: 95%;
+  padding: 20px 0 0 0;
+  margin: 0px auto;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.contact-button {
+  margin: 20px 0 0 0;
+  padding: 5px;
+  background-color: #d61d4e;
+  font-size: 18px;
+  border: none;
+}
+
+.contact-mail-button {
+  text-decoration: none;
+  color: white;
+}
+
+/* Footer styling */
+.footer {
+  width: 100%;
+  background-color: #d61d4e;
+  color: #ffffff;
+}
+
+.footer-links {
+  text-align: center;
+  width: 90%;
+  padding: 20px 0 0 0;
+  margin: 0 auto;
+}
+
+.footer-link-items {
+  padding: 0 10px;
+  line-height: 1.7;
+  font-size: 16px;
+}
+
+.footer-link-contact {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.copyright {
+  width: 100%;
+  font-size: 13px;
+  padding: 20px 0 10px 0;
+  text-align: center;
+}
+
+.copyright-link {
+  color: #ffffff;
+}
