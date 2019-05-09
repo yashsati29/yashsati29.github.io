@@ -16,6 +16,10 @@
     padding: 0 15px;
   }
 
+  .contact-sub-head {
+    animation: pulse 1s infinite;
+  }
+
   .footer-link-items {
     padding: 0 18px;
     line-height: 1.9;
@@ -178,10 +182,6 @@
   .contact-sub-head,
   .contact-desc {
     font-size: 20px;
-  }
-
-  .contact-sub-head {
-    animation: pulse 1.1s infinite;
   }
 
   .footer-link-items:hover {
