@@ -171,10 +171,11 @@ hr {
 
 .contact-button {
   margin: 20px 0 0 0;
-  padding: 5px;
+  padding: 10px;
   background-color: #d61d4e;
   font-size: 18px;
   border: none;
+  border-radius: 8px;
 }
 
 .contact-mail-button {
