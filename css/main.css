@@ -169,6 +169,11 @@ hr {
   text-align: center;
 }
 
+.email-icon {
+  width: 30px;
+  float: left;
+}
+
 .contact-button {
   margin: 20px 0 0 0;
   padding: 10px;
@@ -180,6 +185,8 @@ hr {
 
 .contact-mail-button {
   text-decoration: none;
+  line-height: 1.63;
+  padding: 0 0 0 10px;
   color: white;
 }
 
