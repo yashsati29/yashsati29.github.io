@@ -215,10 +215,27 @@ hr {
   color: #ffffff;
 }
 
+.resume-download {
+  width: 100%;
+  margin: 5px auto;
+  text-align: center;
+}
+
+.download-img {
+  width: 20px;
+  vertical-align: middle;
+  padding: 0 5px 0 0;
+}
+
+.resume-text {
+  vertical-align: middle;
+  color: #ffffff;
+}
+
 .copyright {
   width: 100%;
   font-size: 13px;
-  padding: 20px 0 10px 0;
+  padding: 10px 0 10px 0;
   text-align: center;
 }
 
